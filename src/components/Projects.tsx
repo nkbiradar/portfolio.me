@@ -26,7 +26,7 @@ const projects: Project[] = [
     image: "https://media.istockphoto.com/id/507032213/photo/investigating-the-crimescene.jpg?s=612x612&w=0&k=20&c=_dddXjjG03JrzWt8V5Nqgf9iuAgfBvHvdNeJk1Mhxvw=",
     tech: ["Python", "TensorFlow", "Flask", "React"],
     icon: <MessageSquare size={24} />,
-    github: "https://github.com/nkbiradar/fraud-detection",
+    github: "https://github.com/nkbiradar/Crime-data",
     live: "", // No live deployment yet
   },
 ];
